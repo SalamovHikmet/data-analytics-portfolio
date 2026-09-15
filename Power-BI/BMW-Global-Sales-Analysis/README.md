@@ -24,7 +24,11 @@ This project analyzes BMW's global sales data using Power BI to identify sales t
 The dataset used for this project is included in the project folder.
 
 ## Key Insights
-Key business insights and findings will be added after reviewing the dashboard.
+Total sales reached approximately 633K units, generating $47.97B in total revenue.
+China recorded the highest sales volume among the analyzed countries.
+Sales are relatively balanced across Electric, SUV, and Sedan segments, with Electric vehicles holding the largest share at 34.56%.
+The analysis compares sales performance across different BMW models and engine types.
+Marketing spend shows a generally positive relationship with sales performance.
 
 ## Source
 Dataset source and credits will be provided here.
