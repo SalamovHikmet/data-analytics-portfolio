@@ -27,7 +27,7 @@ The dashboard provides insights into employee demographics, departments, salary 
 
 ## Dashboard
 
-Dashboard preview will be added here.
+![HR Analytics Dashboard](hr-analytics-dashboard.png)
 
 ## Data Source
 
