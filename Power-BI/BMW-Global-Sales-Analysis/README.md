@@ -18,7 +18,7 @@ This project analyzes BMW's global sales data using Power BI to identify sales t
 - KPI analysis
 
 ## Dashboard
-Dashboard preview will be added here.
+![BMW Global Sales Dashboard](bmw-dashboard.png)
 
 ## Dataset
 The dataset used for this project is included in the project folder.
