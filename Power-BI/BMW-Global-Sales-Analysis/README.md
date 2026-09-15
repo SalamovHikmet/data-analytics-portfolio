@@ -31,4 +31,8 @@ The analysis compares sales performance across different BMW models and engine t
 Marketing spend shows a generally positive relationship with sales performance.
 
 ## Source
-Dataset source and credits will be provided here.
+Dataset: [BMW Global Sales and Market Data](https://www.kaggle.com/datasets/payaldhokane/bmw-global-sales-and-market-data/data)
+
+Source: Kaggle  
+Dataset creator: Payal Dhokane  
+Used for educational and portfolio purposes.
