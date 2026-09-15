@@ -26,8 +26,7 @@ The dashboard provides insights into employee demographics, departments, salary 
 - Job role and job satisfaction analysis
 
 ## Dashboard
-
-![HR Analytics Dashboard](hr-analytics-dashboard.png)
+![HR Analytics Dashboard](hr-analytics-dashboard.png.PNG)
 
 ## Data Source
 
