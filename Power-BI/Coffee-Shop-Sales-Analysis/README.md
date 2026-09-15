@@ -21,7 +21,7 @@ This project analyzes coffee shop sales data using Power BI to understand revenu
 
 ## Dashboard
 
-![Coffee Shop Sales Dashboard](coffee-shop-dashboard.png)
+![Coffee Shop Sales Dashboard](coffeshop%20dashboard.PNG)
 
 ## Data Source
 The project uses a Microsoft Excel (.xlsx) dataset as the primary data source.
